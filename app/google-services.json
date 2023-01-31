@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139918194043",
+    "firebase_url": "https://rocket-web-3e42e.firebaseio.com",
+    "project_id": "rocket-web-3e42e",
+    "storage_bucket": "rocket-web-3e42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139918194043:android:2c8383c75d81ce32",
+        "android_client_info": {
+          "package_name": "infix.imrankst1221.rocket.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139918194043-7ir66tdm1ub54gf1kuokmbimk7avtvct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "infix.imrankst1221.rocket.web",
+            "certificate_hash": "7212f59899eba8c561734234be10dbb6acc6783d"
+          }
+        },
+        {
+          "client_id": "139918194043-7tvvdvg92cdrlbcndj3tkc9husclc0q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8AyX1H2ZxNoT6T2XdVMFSwyxfum9N0uU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139918194043-7tvvdvg92cdrlbcndj3tkc9husclc0q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

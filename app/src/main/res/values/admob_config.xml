@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- If you are using AdMMob then set your app ID here-->
+	<!-- Remember ad ID contains '~', for more: https://support.google.com/admob/answer/7356431-->
+	<!-- set admob key ex: ca-app-pub-3940256099942544~XXXXXXX-->
+	<string name="admob_app_id" translatable="false">ca-app-pub-6944068380993727~2290999455</string>
+</resources>

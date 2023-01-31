@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Set your app name here-->
+	<string name="app_name">A Dark World</string>
+	
+	<!-- Notification Messaging Service -->
+	<string name="notification_title" translatable="false">@string/app_name</string>
+	<string name="default_notification_channel_id" translatable="false">fcm_rocketweb_channel</string>
+	
+	<!-- Webview config -->
+	<string name="user_agent_string" translatable="false"></string>
+</resources>

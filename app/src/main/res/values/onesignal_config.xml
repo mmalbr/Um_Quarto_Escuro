@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Only set key if you want to use OneSignal notification service-->
+	<!-- Read the doc and watch the video to get onesignal id.-->
+	<!-- Example: -->
+	<string name="onesignal_app_id" translatable="false">XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX</string>
+</resources>
